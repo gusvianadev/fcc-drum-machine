@@ -13,7 +13,12 @@
 	},
 	"plugins": ["react"],
 	"rules": {
+		"no-unused-vars": "warn",
+		"no-return-assign": "off",
+		"no-param-reassign": "off",
 		"react/react-in-jsx-scope": "off",
-		"react/jsx-filename-extension": "off"
+		"react/jsx-filename-extension": "off",
+		"react/prop-types": "off",
+		"jsx-a11y/media-has-caption": "off"
 	}
 }
