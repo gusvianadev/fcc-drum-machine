@@ -1,2 +1,0 @@
-(this["webpackJsonpfcc-drum-machine"]=this["webpackJsonpfcc-drum-machine"]||[]).push([[0],{9:function(e,c,t){"use strict";t.r(c);var n=t(1),i=t.n(n),r=t(3),s=t.n(r),o=t(0),d=function(){return console.log("this is the app"),Object(o.jsx)("div",{children:"App"})};s.a.render(Object(o.jsx)(i.a.StrictMode,{children:Object(o.jsx)(d,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.6fe60c10.chunk.js.map
